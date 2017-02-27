@@ -1,0 +1,40 @@
+.overflow {
+	overflow-y: scroll;
+	height: 500px;
+}
+
+
+.home {
+	height: 600px;
+}
+
+.about {
+	height: 600px;
+}
+
+.projects {
+	height: 400px;
+	width: 100%;
+}
+
+.contact {
+	height: 600px;
+}
+
+.banner {
+	height: 50px;
+	width:100%;
+	background-color: black;
+	margin-bottom: 55px; 
+}
+
+
+#output {
+	text-transform: uppercase;
+}
+
+#main {
+	text-transform: uppercase;
+}
+
+
