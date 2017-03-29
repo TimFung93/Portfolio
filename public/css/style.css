@@ -19,12 +19,17 @@ nav {
 }
 
 
+#profilepic {
+    height: 60px;
+    width: 60px;
+}
+
 .overflow {
 	overflow-y: scroll;
 	height: 500px;
 }
 span {
-    color: #ffc200;
+    color: #f0b740;
 }
 
 img {
@@ -38,7 +43,7 @@ img {
 
 .about {
     margin-top: 60px;
-	height: 400px;
+	height: 340px;
 }
 
 .skillsdiv {
@@ -55,7 +60,7 @@ img {
 }
 
 .skills li:hover{
-    color:#ffc200;
+    color: #f0b740;
     transition: color 0.15s linear
 }
 
@@ -84,6 +89,14 @@ img {
 	text-transform: uppercase;
 }
 
+#latest {
+    height: 100%;
+    width: 100%;
+}
+
+#lateh {
+    margin-top: -53px;
+}
 
 
 hr.primary {
@@ -93,7 +106,7 @@ hr.primary {
   margin-top:20px;
   margin-bottom: 20px;
   border:0;
-  border-top:4px solid #F05F40;
+  border-top:4px solid  #F05F40;
 }   
 
 hr.about-hr {
@@ -110,7 +123,7 @@ hr.style-eight {
     padding: 0;
     border: none;
     border-top: medium double #333;
-    color:  #ffc200;
+    color: #f0b740;
     text-align: center;
 }
 hr.style-eight:after {
