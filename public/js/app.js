@@ -10,10 +10,11 @@ function runTyping() {
 		let deleteSpeed = 30; // 30 ms
 		let deleteAfter = 1000; // 1 second
 		let items = [
+		  "I make cool apps",
 		  "I learn quickly",
 		  "I enjoy challenges",
 		  "I have HUSTLE",
-		  "Uber Flip, Please Hire me! :)"
+		  "Please Hire me! :D"
 		];
 		/* END SETTINGS */
 
